@@ -1,0 +1,480 @@
+Time 0
+Waiting clients: (29,2,7)(13,3,7)(28,3,6)(39,6,7)(12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 1
+Waiting clients: (29,2,7)(13,3,7)(28,3,6)(39,6,7)(12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 2
+Waiting clients: (13,3,7)(28,3,6)(39,6,7)(12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: (29,2,7) Waiting time: 7
+
+Time 3
+Waiting clients: (39,6,7)(12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: (28,3,6) Waiting time: 6
+Queue 4: (13,3,7) Waiting time: 7
+Queue 5: (29,2,6) Waiting time: 6
+
+Time 4
+Waiting clients: (39,6,7)(12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: (28,3,5) Waiting time: 5
+Queue 4: (13,3,6) Waiting time: 6
+Queue 5: (29,2,5) Waiting time: 5
+
+Time 5
+Waiting clients: (39,6,7)(12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: (28,3,4) Waiting time: 4
+Queue 4: (13,3,5) Waiting time: 5
+Queue 5: (29,2,4) Waiting time: 4
+
+Time 6
+Waiting clients: (12,7,4)(31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: Closed Waiting time: 0
+Queue 2: (39,6,7) Waiting time: 7
+Queue 3: (28,3,3) Waiting time: 3
+Queue 4: (13,3,4) Waiting time: 4
+Queue 5: (29,2,3) Waiting time: 3
+
+Time 7
+Waiting clients: (31,8,3)(34,8,7)(3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (12,7,4) Waiting time: 4
+Queue 2: (39,6,6) Waiting time: 6
+Queue 3: (28,3,2) Waiting time: 2
+Queue 4: (13,3,3) Waiting time: 3
+Queue 5: (29,2,2) Waiting time: 2
+
+Time 8
+Waiting clients: (3,9,7)(1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (12,7,3) Waiting time: 3
+Queue 2: (39,6,5) Waiting time: 5
+Queue 3: (28,3,1)(34,8,7) Waiting time: 8
+Queue 4: (13,3,2) Waiting time: 2
+Queue 5: (29,2,1)(31,8,3) Waiting time: 4
+
+Time 9
+Waiting clients: (1,10,2)(7,10,6)(38,10,3)(48,10,1)(24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (12,7,2) Waiting time: 2
+Queue 2: (39,6,4) Waiting time: 4
+Queue 3: (34,8,7) Waiting time: 7
+Queue 4: (13,3,1)(3,9,7) Waiting time: 8
+Queue 5: (31,8,3) Waiting time: 3
+
+Time 10
+Waiting clients: (24,11,7)(43,11,2)(45,11,1)(21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (12,7,1)(1,10,2)(48,10,1) Waiting time: 4
+Queue 2: (39,6,3)(38,10,3) Waiting time: 6
+Queue 3: (34,8,6) Waiting time: 6
+Queue 4: (3,9,7) Waiting time: 7
+Queue 5: (31,8,2)(7,10,6) Waiting time: 8
+
+Time 11
+Waiting clients: (21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (1,10,2)(48,10,1)(24,11,7) Waiting time: 10
+Queue 2: (39,6,2)(38,10,3)(45,11,1) Waiting time: 6
+Queue 3: (34,8,5)(43,11,2) Waiting time: 7
+Queue 4: (3,9,6) Waiting time: 6
+Queue 5: (31,8,1)(7,10,6) Waiting time: 7
+
+Time 12
+Waiting clients: (21,13,5)(44,13,6)(5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (1,10,1)(48,10,1)(24,11,7) Waiting time: 9
+Queue 2: (39,6,1)(38,10,3)(45,11,1) Waiting time: 5
+Queue 3: (34,8,4)(43,11,2) Waiting time: 6
+Queue 4: (3,9,5) Waiting time: 5
+Queue 5: (7,10,6) Waiting time: 6
+
+Time 13
+Waiting clients: (5,14,5)(47,14,5)(36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (48,10,1)(24,11,7) Waiting time: 8
+Queue 2: (38,10,3)(45,11,1)(44,13,6) Waiting time: 10
+Queue 3: (34,8,3)(43,11,2) Waiting time: 5
+Queue 4: (3,9,4)(21,13,5) Waiting time: 9
+Queue 5: (7,10,5) Waiting time: 5
+
+Time 14
+Waiting clients: (36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,7) Waiting time: 7
+Queue 2: (38,10,2)(45,11,1)(44,13,6) Waiting time: 9
+Queue 3: (34,8,2)(43,11,2)(47,14,5) Waiting time: 9
+Queue 4: (3,9,3)(21,13,5) Waiting time: 8
+Queue 5: (7,10,4)(5,14,5) Waiting time: 9
+
+Time 15
+Waiting clients: (36,16,5)(20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,6) Waiting time: 6
+Queue 2: (38,10,1)(45,11,1)(44,13,6) Waiting time: 8
+Queue 3: (34,8,1)(43,11,2)(47,14,5) Waiting time: 8
+Queue 4: (3,9,2)(21,13,5) Waiting time: 7
+Queue 5: (7,10,3)(5,14,5) Waiting time: 8
+
+Time 16
+Waiting clients: (20,17,6)(15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,5)(36,16,5) Waiting time: 10
+Queue 2: (45,11,1)(44,13,6) Waiting time: 7
+Queue 3: (43,11,2)(47,14,5) Waiting time: 7
+Queue 4: (3,9,1)(21,13,5) Waiting time: 6
+Queue 5: (7,10,2)(5,14,5) Waiting time: 7
+
+Time 17
+Waiting clients: (15,18,3)(32,18,2)(42,18,6)(16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,4)(36,16,5) Waiting time: 9
+Queue 2: (44,13,6) Waiting time: 6
+Queue 3: (43,11,1)(47,14,5) Waiting time: 6
+Queue 4: (21,13,5)(20,17,6) Waiting time: 11
+Queue 5: (7,10,1)(5,14,5) Waiting time: 6
+
+Time 18
+Waiting clients: (16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,3)(36,16,5) Waiting time: 8
+Queue 2: (44,13,5)(42,18,6) Waiting time: 11
+Queue 3: (47,14,5)(32,18,2) Waiting time: 7
+Queue 4: (21,13,4)(20,17,6) Waiting time: 10
+Queue 5: (5,14,5)(15,18,3) Waiting time: 8
+
+Time 19
+Waiting clients: (16,20,4)(11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,2)(36,16,5) Waiting time: 7
+Queue 2: (44,13,4)(42,18,6) Waiting time: 10
+Queue 3: (47,14,4)(32,18,2) Waiting time: 6
+Queue 4: (21,13,3)(20,17,6) Waiting time: 9
+Queue 5: (5,14,4)(15,18,3) Waiting time: 7
+
+Time 20
+Waiting clients: (11,21,1)(22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (24,11,1)(36,16,5) Waiting time: 6
+Queue 2: (44,13,3)(42,18,6) Waiting time: 9
+Queue 3: (47,14,3)(32,18,2)(16,20,4) Waiting time: 9
+Queue 4: (21,13,2)(20,17,6) Waiting time: 8
+Queue 5: (5,14,3)(15,18,3) Waiting time: 6
+
+Time 21
+Waiting clients: (22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (36,16,5) Waiting time: 5
+Queue 2: (44,13,2)(42,18,6) Waiting time: 8
+Queue 3: (47,14,2)(32,18,2)(16,20,4) Waiting time: 8
+Queue 4: (21,13,1)(20,17,6) Waiting time: 7
+Queue 5: (5,14,2)(15,18,3)(11,21,1) Waiting time: 6
+
+Time 22
+Waiting clients: (22,23,6)(25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (36,16,4) Waiting time: 4
+Queue 2: (44,13,1)(42,18,6) Waiting time: 7
+Queue 3: (47,14,1)(32,18,2)(16,20,4) Waiting time: 7
+Queue 4: (20,17,6) Waiting time: 6
+Queue 5: (5,14,1)(15,18,3)(11,21,1) Waiting time: 5
+
+Time 23
+Waiting clients: (25,24,2)(41,24,2)(14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (36,16,3)(22,23,6) Waiting time: 9
+Queue 2: (42,18,6) Waiting time: 6
+Queue 3: (32,18,2)(16,20,4) Waiting time: 6
+Queue 4: (20,17,5) Waiting time: 5
+Queue 5: (15,18,3)(11,21,1) Waiting time: 4
+
+Time 24
+Waiting clients: (14,25,3)(27,25,7)(33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (36,16,2)(22,23,6) Waiting time: 8
+Queue 2: (42,18,5) Waiting time: 5
+Queue 3: (32,18,1)(16,20,4) Waiting time: 5
+Queue 4: (20,17,4)(41,24,2) Waiting time: 6
+Queue 5: (15,18,2)(11,21,1)(25,24,2) Waiting time: 5
+
+Time 25
+Waiting clients: (33,26,4)(50,26,1)(4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (36,16,1)(22,23,6) Waiting time: 7
+Queue 2: (42,18,4) Waiting time: 4
+Queue 3: (16,20,4)(27,25,7) Waiting time: 11
+Queue 4: (20,17,3)(41,24,2) Waiting time: 5
+Queue 5: (15,18,1)(11,21,1)(25,24,2)(14,25,3) Waiting time: 7
+
+Time 26
+Waiting clients: (4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (22,23,6) Waiting time: 6
+Queue 2: (42,18,3)(33,26,4) Waiting time: 7
+Queue 3: (16,20,3)(27,25,7) Waiting time: 10
+Queue 4: (20,17,2)(41,24,2)(50,26,1) Waiting time: 5
+Queue 5: (11,21,1)(25,24,2)(14,25,3) Waiting time: 6
+
+Time 27
+Waiting clients: (4,28,1)(9,28,2)(46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (22,23,5) Waiting time: 5
+Queue 2: (42,18,2)(33,26,4) Waiting time: 6
+Queue 3: (16,20,2)(27,25,7) Waiting time: 9
+Queue 4: (20,17,1)(41,24,2)(50,26,1) Waiting time: 4
+Queue 5: (25,24,2)(14,25,3) Waiting time: 5
+
+Time 28
+Waiting clients: (46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (22,23,4) Waiting time: 4
+Queue 2: (42,18,1)(33,26,4) Waiting time: 5
+Queue 3: (16,20,1)(27,25,7) Waiting time: 8
+Queue 4: (41,24,2)(50,26,1)(4,28,1) Waiting time: 4
+Queue 5: (25,24,1)(14,25,3)(9,28,2) Waiting time: 6
+
+Time 29
+Waiting clients: (46,30,1)(49,30,7)(2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (22,23,3) Waiting time: 3
+Queue 2: (33,26,4) Waiting time: 4
+Queue 3: (27,25,7) Waiting time: 7
+Queue 4: (41,24,1)(50,26,1)(4,28,1) Waiting time: 3
+Queue 5: (14,25,3)(9,28,2) Waiting time: 5
+
+Time 30
+Waiting clients: (2,31,1)(19,31,1)(23,31,4)(17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (22,23,2)(49,30,7) Waiting time: 9
+Queue 2: (33,26,3) Waiting time: 3
+Queue 3: (27,25,6) Waiting time: 6
+Queue 4: (50,26,1)(4,28,1)(46,30,1) Waiting time: 3
+Queue 5: (14,25,2)(9,28,2) Waiting time: 4
+
+Time 31
+Waiting clients: (17,32,5)(6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (22,23,1)(49,30,7) Waiting time: 8
+Queue 2: (33,26,2)(19,31,1) Waiting time: 3
+Queue 3: (27,25,5) Waiting time: 5
+Queue 4: (4,28,1)(46,30,1)(2,31,1) Waiting time: 3
+Queue 5: (14,25,1)(9,28,2)(23,31,4) Waiting time: 7
+
+Time 32
+Waiting clients: (6,33,2)(26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (49,30,7) Waiting time: 7
+Queue 2: (33,26,1)(19,31,1) Waiting time: 2
+Queue 3: (27,25,4) Waiting time: 4
+Queue 4: (46,30,1)(2,31,1)(17,32,5) Waiting time: 7
+Queue 5: (9,28,2)(23,31,4) Waiting time: 6
+
+Time 33
+Waiting clients: (26,34,1)(8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (49,30,6) Waiting time: 6
+Queue 2: (19,31,1)(6,33,2) Waiting time: 3
+Queue 3: (27,25,3) Waiting time: 3
+Queue 4: (2,31,1)(17,32,5) Waiting time: 6
+Queue 5: (9,28,1)(23,31,4) Waiting time: 5
+
+Time 34
+Waiting clients: (8,35,5)(30,35,3)(37,35,7)(10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (49,30,5) Waiting time: 5
+Queue 2: (6,33,2) Waiting time: 2
+Queue 3: (27,25,2)(26,34,1) Waiting time: 3
+Queue 4: (17,32,5) Waiting time: 5
+Queue 5: (23,31,4) Waiting time: 4
+
+Time 35
+Waiting clients: (10,36,6)(18,36,1)(40,37,7)(35,38,7)
+Queue 1: (49,30,4) Waiting time: 4
+Queue 2: (6,33,1)(8,35,5) Waiting time: 6
+Queue 3: (27,25,1)(26,34,1)(30,35,3) Waiting time: 5
+Queue 4: (17,32,4) Waiting time: 4
+Queue 5: (23,31,3)(37,35,7) Waiting time: 10
+
+Time 36
+Waiting clients: (40,37,7)(35,38,7)
+Queue 1: (49,30,3)(18,36,1) Waiting time: 4
+Queue 2: (8,35,5) Waiting time: 5
+Queue 3: (26,34,1)(30,35,3) Waiting time: 4
+Queue 4: (17,32,3)(10,36,6) Waiting time: 9
+Queue 5: (23,31,2)(37,35,7) Waiting time: 9
+
+Time 37
+Waiting clients: (35,38,7)
+Queue 1: (49,30,2)(18,36,1) Waiting time: 3
+Queue 2: (8,35,4) Waiting time: 4
+Queue 3: (30,35,3)(40,37,7) Waiting time: 10
+Queue 4: (17,32,2)(10,36,6) Waiting time: 8
+Queue 5: (23,31,1)(37,35,7) Waiting time: 8
+
+Time 38
+Waiting clients: 
+Queue 1: (49,30,1)(18,36,1)(35,38,7) Waiting time: 9
+Queue 2: (8,35,3) Waiting time: 3
+Queue 3: (30,35,2)(40,37,7) Waiting time: 9
+Queue 4: (17,32,1)(10,36,6) Waiting time: 7
+Queue 5: (37,35,7) Waiting time: 7
+
+Time 39
+Waiting clients: 
+Queue 1: (18,36,1)(35,38,7) Waiting time: 8
+Queue 2: (8,35,2) Waiting time: 2
+Queue 3: (30,35,1)(40,37,7) Waiting time: 8
+Queue 4: (10,36,6) Waiting time: 6
+Queue 5: (37,35,6) Waiting time: 6
+
+Time 40
+Waiting clients: 
+Queue 1: (35,38,7) Waiting time: 7
+Queue 2: (8,35,1) Waiting time: 1
+Queue 3: (40,37,7) Waiting time: 7
+Queue 4: (10,36,5) Waiting time: 5
+Queue 5: (37,35,5) Waiting time: 5
+
+Time 41
+Waiting clients: 
+Queue 1: (35,38,6) Waiting time: 6
+Queue 2: Closed Waiting time: 0
+Queue 3: (40,37,6) Waiting time: 6
+Queue 4: (10,36,4) Waiting time: 4
+Queue 5: (37,35,4) Waiting time: 4
+
+Time 42
+Waiting clients: 
+Queue 1: (35,38,5) Waiting time: 5
+Queue 2: Closed Waiting time: 0
+Queue 3: (40,37,5) Waiting time: 5
+Queue 4: (10,36,3) Waiting time: 3
+Queue 5: (37,35,3) Waiting time: 3
+
+Time 43
+Waiting clients: 
+Queue 1: (35,38,4) Waiting time: 4
+Queue 2: Closed Waiting time: 0
+Queue 3: (40,37,4) Waiting time: 4
+Queue 4: (10,36,2) Waiting time: 2
+Queue 5: (37,35,2) Waiting time: 2
+
+Time 44
+Waiting clients: 
+Queue 1: (35,38,3) Waiting time: 3
+Queue 2: Closed Waiting time: 0
+Queue 3: (40,37,3) Waiting time: 3
+Queue 4: (10,36,1) Waiting time: 1
+Queue 5: (37,35,1) Waiting time: 1
+
+Time 45
+Waiting clients: 
+Queue 1: (35,38,2) Waiting time: 2
+Queue 2: Closed Waiting time: 0
+Queue 3: (40,37,2) Waiting time: 2
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 46
+Waiting clients: 
+Queue 1: (35,38,1) Waiting time: 1
+Queue 2: Closed Waiting time: 0
+Queue 3: (40,37,1) Waiting time: 1
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 47
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 48
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 49
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 50
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 51
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 52
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 53
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 54
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 55
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 56
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 57
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 58
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+
+Time 59
+Waiting clients: 
+Queue 1: Closed Waiting time: 0
+Queue 2: Closed Waiting time: 0
+Queue 3: Closed Waiting time: 0
+Queue 4: Closed Waiting time: 0
+Queue 5: Closed Waiting time: 0
+

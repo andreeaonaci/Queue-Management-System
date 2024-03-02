@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dd0c2db-b0fa-4fab-95cc-e8ce09f975c6" name="Changes" comment="Assignment_2">
+      <change beforePath="$PROJECT_DIR$/../../Git-2.39.2-64-bit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture_1_Software_Construction.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture_2_UML_Diagrams.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/SimulationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/SimulationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interface/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interface/Controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O16izhq8ja8Pwc3zUHMkHSx633" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;97&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANDREEA/IdeaProjects/travel_agency&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\poli\an2\sem2\PT\PT2023_30421_Onaci_Andreea_Assignment_2\Assignment_2\src\main\java\Interface" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd0c2db-b0fa-4fab-95cc-e8ce09f975c6" name="Changes" comment="" />
+      <created>1680715873689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680715873689</updated>
+      <workItem from="1680715875390" duration="587000" />
+      <workItem from="1680733658099" duration="40000" />
+      <workItem from="1680966952366" duration="3510000" />
+      <workItem from="1681153205469" duration="1472000" />
+      <workItem from="1681201231819" duration="1548000" />
+      <workItem from="1681223732030" duration="11326000" />
+      <workItem from="1681299484836" duration="1492000" />
+      <workItem from="1681413441915" duration="4999000" />
+      <workItem from="1681458532455" duration="7239000" />
+      <workItem from="1681569135184" duration="1515000" />
+      <workItem from="1681750681717" duration="55000" />
+      <workItem from="1681902724296" duration="19506000" />
+      <workItem from="1681967164557" duration="621000" />
+      <workItem from="1682009954774" duration="16848000" />
+      <workItem from="1682069418795" duration="13899000" />
+      <workItem from="1682152463998" duration="17793000" />
+      <workItem from="1682253637351" duration="7475000" />
+      <workItem from="1682271917384" duration="1198000" />
+      <workItem from="1682336628820" duration="8010000" />
+      <workItem from="1682355750425" duration="9946000" />
+      <workItem from="1682407256490" duration="1907000" />
+      <workItem from="1682503944347" duration="4142000" />
+      <workItem from="1682508496275" duration="3000" />
+      <workItem from="1682508645109" duration="3140000" />
+      <workItem from="1682531443574" duration="7440000" />
+      <workItem from="1682540937787" duration="4798000" />
+      <workItem from="1682571765443" duration="126000" />
+      <workItem from="1682571903359" duration="8878000" />
+      <workItem from="1682606432258" duration="1405000" />
+      <workItem from="1682623476846" duration="2508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
